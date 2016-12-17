@@ -1,6 +1,6 @@
 title: Karim Sayadi
-url: "http://fisheafish.github.io"
-baseurl: "http://fisheatfish.github.io"
+#url: "http://fisheafish.github.io"
+#baseurl: "http://fisheatfish.github.io"
 
 markdown: kramdown
 
