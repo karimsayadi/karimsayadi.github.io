@@ -1,0 +1,11 @@
+- name: "Contact"
+  link: "contact"
+
+- name: "CV"
+  link: "resume.pdf"
+
+- name: "Enseignement"
+  link: "enseignement"
+  
+- name: "A propos"
+  link: "/"
