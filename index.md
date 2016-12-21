@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Bonjour et bienvenue sur mon site personnel. Je suis attaché temporaire d'enseignement et de recherche à l'École Pratique des Hautes Études ([EPHE](https://www.ephe.fr/)), Paris. Je suis rattaché au laboratoire [CHArt](http://www.cognition-usages.org/chart2/) (Congnitions humaine et artificielle), EA EPHE et Paris 8 
+Bienvenue sur mon site personnel. Je suis attaché temporaire d'enseignement et de recherche à l'École Pratique des Hautes Études ([EPHE](https://www.ephe.fr/)), Paris. Je suis rattaché au laboratoire [CHArt](http://www.cognition-usages.org/chart2/) (Congnitions humaines et artificielles), EA EPHE et Paris 8 
 
 ## Recherche
 
@@ -26,7 +26,7 @@ Je m'interesse à la classification des textes numériques et numérisée. Numé
 
 5. Karim Sayadi, Quang Vu Bui, Marc Bui. Multilayer classification of web pages using Random Forest and semi-supervised version of the Latent Dirichlet Allocation, IEEE-I4CS (International Conference on Innovations for Community Services) Intl. conference, Nuremberg, Germany. 8-10 July 2015.
 
-6. Karim Sayadi, Marc Bui, Michel Lamure. Predictive topic modeling : Complex Networks approach using dynamics of author’s communities, EURO INFORMS (Operational Research), Rome, Italy, 1-4 July 2013.
+6. Karim Sayadi, Marc Bui, Michel Lamure. Predictive topic modeling : Complex Networks approach using dynamics of author’s communities, EURO INFORMS (Operational Research), Rome, Italy, 1-4 July 2013. 
 
 7. Karim Sayadi, Marc Bui, Vigile Hoareau, Sofian Ben Amor, Une approche prétopologique pour la catégorisation des données de microblogging, Conférence nationale VSST'12 (Veille Scientifique et Technologique), Ajjaccio, Corse, France, 24-25 Mai 2012.
 
