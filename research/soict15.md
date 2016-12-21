@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-### A multi-criteria document clustering method based on topic modeling and pseudoclosure function <a href="/research/soict15.bib" class="pdf-button"><span>pdf</span></a>
+### A multi-criteria document clustering method based on topic modeling and pseudoclosure function <a href="/research/articles/soict15.pdf" class="pdf-button"><span>pdf</span></a>
 
 
 #### Quang Vu Bui, Karim Sayadi, Marc Bui
@@ -16,12 +16,11 @@ We address in this work the problem of document clustering. Our approach is base
 
 #### BibTeX 
 
-```bibtex
+```
 @inproceedings{soict15,
 	Author = {Quang Vu Bui and Karim Sayadi and Marc Bui},
-	Booktitle = {Proceedings of the Sixth International Symposium on Information and Communication Technology, Hue City, Vietnam, December 3-4, 2015},
-	Date-Added = {2016-12-20 17:13:10 +0000},
-	Date-Modified = {2016-12-20 17:14:32 +0000},
+	Booktitle = {Proceedings of the Sixth International Symposium on Information and Communication Technology, Hue City, Vietnam, 
+	December 3-4, 2015},
 	Pages = {38--45},
 	Title = {A multi-criteria document clustering method based on topic modeling and pseudoclosure function},
 	Year = {2015}}
