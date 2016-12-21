@@ -22,7 +22,7 @@ Je m'interesse à la classification des textes numériques et numérisée. Numé
 
 3. Karim Sayadi, Marcus Liwicki, Rolf Ingold, Marc Bui. Tunisian Dialect and Modern Standard Arabic Dataset for Sentiment Analysis : Tunisian Election Context, IEEE-CICLing (Computational Linguistics and Intelligent Text Processing) Intl. conference, Konya, Turkey, 7-8 Avril 2016.
 
-4. Quang Vu Bui, Karim Sayadi, Marc Bui. A multi-criteria document clustering method based on topic modeling and pseudoclosure function, ACM-SOICT (Symposium on Information and Communication Technology) Intl. conference, Hue, Vietnam, 3-4 December 2015. (Extended version submitted to informatica journal)
+4. Quang Vu Bui, Karim Sayadi, Marc Bui. [A multi-criteria document clustering method based on topic modeling and pseudoclosure function](research/soict15), ACM-SOICT (Symposium on Information and Communication Technology) Intl. conference, Hue, Vietnam, 3-4 December 2015. (Extended version submitted to informatica journal)
 
 5. Karim Sayadi, Quang Vu Bui, Marc Bui. Multilayer classification of web pages using Random Forest and semi-supervised version of the Latent Dirichlet Allocation, IEEE-I4CS (International Conference on Innovations for Community Services) Intl. conference, Nuremberg, Germany. 8-10 July 2015.
 

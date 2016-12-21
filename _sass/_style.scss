@@ -29,6 +29,24 @@ hr {
 }
 
 /*
+* Buttons
+*/
+
+.pdf-button
+{
+    display: inline-block;
+    width: 24px;
+    height: 32px;
+    background : url("../icons/pdf.png")
+}
+
+.pdf-button span 
+{
+    display: none;
+}
+
+
+/*
  * Navbar
  */
 
