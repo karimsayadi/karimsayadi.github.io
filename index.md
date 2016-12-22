@@ -20,7 +20,7 @@ Je m'interesse à la classification des textes numériques et numérisée. Numé
 
 2. Karim Sayadi, Quang Vu Bui and Marc Bui.  Distributed Implementation of the Latent Dirichlet Allocation on Spark. Proceedings of the Sixth International Symposium on Information and Communication Technology, Ho Chi Minh City, Vietnam, 08-09 December 2016.
 
-3. Karim Sayadi, Marcus Liwicki, Rolf Ingold, Marc Bui. Tunisian Dialect and Modern Standard Arabic Dataset for Sentiment Analysis : Tunisian Election Context, IEEE-CICLing (Computational Linguistics and Intelligent Text Processing) Intl. conference, Konya, Turkey, 7-8 Avril 2016.
+3. Karim Sayadi, Marcus Liwicki, Rolf Ingold, Marc Bui. [Tunisian Dialect and Modern Standard Arabic Dataset for Sentiment Analysis : Tunisian Election Context](research/acling16), IEEE-CICLing (Computational Linguistics and Intelligent Text Processing) Intl. conference, Konya, Turkey, 7-8 Avril 2016.
 
 4. Quang Vu Bui, Karim Sayadi, Marc Bui. [A multi-criteria document clustering method based on topic modeling and pseudoclosure function](research/soict15), ACM-SOICT (Symposium on Information and Communication Technology) Intl. conference, Hue, Vietnam, 3-4 December 2015. (Extended version published in [informatica journal](http://www.informatica.si/index.php/informatica/article/view/1278))
 
