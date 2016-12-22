@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-### A multi-criteria document clustering method based on topic modeling and pseudoclosure function <a href="/research/articles/soict15.pdf" class="pdf-button"><span>pdf</span></a>
+### A multi-criteria document clustering method based on topic modeling and pseudoclosure function <a target="_blank" href="/research/articles/soict15.pdf" class="pdf-button"><span>pdf</span></a>
 
 
 #### Quang Vu Bui, Karim Sayadi, Marc Bui

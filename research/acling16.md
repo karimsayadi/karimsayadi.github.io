@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-### Tunisian Dialect and Modern Standard Arabic Dataset for Sentiment Analysis : Tunisian Election Context. <a href="/research/articles/acling16.pdf" class="pdf-button"><span>pdf</span></a>
+### Tunisian Dialect and Modern Standard Arabic Dataset for Sentiment Analysis : Tunisian Election Context. <a target="_blank" href="/research/articles/acling16.pdf" class="pdf-button"><span>pdf</span></a>
 
 
 #### Karim Sayadi, Marcus Liwicki, Rolf Ingold, Marc Bui
