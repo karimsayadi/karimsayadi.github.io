@@ -16,9 +16,9 @@ Je m'interesse à la classification des textes numériques et numérisée. Numé
 
 ### Articles de conférences
 
-1. Quang Vu Bui, Karim Sayadi and Marc Bui.  Combining Latent Dirichlet Alllocation and K-means for Documents Clustering: Effect of Probabilistic Based Distance Measures, ACIIDS Avril 2017 intl conference. 
+1. Quang Vu Bui, Karim Sayadi and Marc Bui.  Combining Latent Dirichlet Alllocation and K-means for Documents Clustering: Effect of Probabilistic Based Distance Measures, To appear in ACIIDS proceedings Avril 2017 intl conference. 
 
-2. Karim Sayadi, Quang Vu Bui and Marc Bui.  Distributed Implementation of the Latent Dirichlet Allocation on Spark. Proceedings of the Sixth International Symposium on Information and Communication Technology, Ho Chi Minh City, Vietnam, 08-09 December 2016.
+2. Karim Sayadi, Quang Vu Bui and Marc Bui.  [Distributed Implementation of the Latent Dirichlet Allocation on Spark](research/soict16), Proceedings of the Sixth International Symposium on Information and Communication Technology, Ho Chi Minh City, Vietnam, 08-09 December 2016.
 
 3. Karim Sayadi, Marcus Liwicki, Rolf Ingold, Marc Bui. [Tunisian Dialect and Modern Standard Arabic Dataset for Sentiment Analysis : Tunisian Election Context](research/acling16), IEEE-CICLing (Computational Linguistics and Intelligent Text Processing) Intl. conference, Konya, Turkey, 7-8 Avril 2016.
 
