@@ -8,13 +8,7 @@ layout: default
 
 Bienvenue sur mon site personnel. Je suis attaché temporaire d'enseignement et de recherche à l'École Pratique des Hautes Études ([EPHE](https://www.ephe.fr/)), Paris. Je suis rattaché au laboratoire [CHArt](http://www.cognition-usages.org/chart2/) (Congnitions humaines et artificielles), EA EPHE et Paris 8 
 
-## Recherche
-
-Je m'interesse à la classification des textes numériques et numérisée. Numérique quand le texte est saisie sur un ordinateur et numérisé quand le texte est dans une image stockée sur un ordinateur. Je développe pour cela des algorithmes d'apprentissages automatiques en utilisant des méthodes issues des modèles graphiques probabilistes, les réseaux de neurones ou encore la prétopologie. 
-
 ## Publications
-
-### Articles de conférences
 
 1. Quang Vu Bui, Karim Sayadi and Marc Bui.  Combining Latent Dirichlet Alllocation and K-means for Documents Clustering: Effect of Probabilistic Based Distance Measures, To appear in ACIIDS proceedings Avril 2017 intl conference. 
 
