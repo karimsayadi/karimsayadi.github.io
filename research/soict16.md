@@ -1,7 +1,7 @@
-
 ---
 layout: default
 ---
+
 ### Distributed implementation of the latent Dirichlet allocation on Spark <a target="_blank" href="/research/articles/soict16.pdf" class="pdf-button"><span>pdf</span></a>
 
 #### Karim Sayadi, Quang Vu Bui, Marc Bui 
