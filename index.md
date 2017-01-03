@@ -22,7 +22,7 @@ Bienvenue sur mon site personnel. Je suis attaché temporaire d'enseignement et 
 
 6. Karim Sayadi, Marc Bui, Michel Lamure. Predictive topic modeling : Complex Networks approach using dynamics of author’s communities, EURO INFORMS (Operational Research), Rome, Italy, 1-4 July 2013. 
 
-7. Karim Sayadi, Marc Bui, Vigile Hoareau, Sofian Ben Amor, Une approche prétopologique pour la catégorisation des données de microblogging, Conférence nationale VSST'12 (Veille Scientifique et Technologique), Ajjaccio, Corse, France, 24-25 Mai 2012.
+7. Karim Sayadi, Marc Bui, Vigile Hoareau, Sofian Ben Amor, [Une approche prétopologique pour la catégorisation des données de microblogging](research/vsst12), Conférence nationale VSST'12 (Veille Scientifique et Technologique), Ajjaccio, Corse, France, 24-25 Mai 2012.
 
 ### Rapport technique
 
