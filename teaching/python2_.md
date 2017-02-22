@@ -22,6 +22,7 @@ layout: default
 
 * Introduction au domaine de l’analyse des images des documents. Les applications aborderont les tâches de binarisation de l’image, la segmentation des lignes de textes, ou encore la reconnaissance des caractères dans une image. 
 
+Pour le suivi du cours je vous invite à installer *Jupyter notebook* en suivant ce [lien](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/install.html). 
 
 ### Programme 
 1. Automatisation des tâches et préparation des données. 
