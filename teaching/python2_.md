@@ -28,6 +28,6 @@ layout: default
 
 | Résumé | Activités | TD  PDF | TD python notebook | données |
 | --- |:---:| :---:|:---:|:---:|
-| Dans cette partie du cours, l’étudiant apprendra à manipuler de diverses manières une collection de fichiers (texte), afin d’en extraire différentes informations et de les visualiser. | Lire depuis un fichier texte. Écrire dans un fichier texte. Utilisation des fichiers de type csv.| <a target="_blank" href="python2/220217.pdf" class="pdf-button"><span>pdf</span></a> | <a href="https://github.com/karimsayadi/karimsayadi.github.io/blob/master/teaching/python2/Exercices_220217.ipynb" class="jup-button"><span>jupyter</span></a> | <a href="python2/data/preprocessedP.txt" class="data-button"><span>jupyter</span></a> |
+| Dans cette partie du cours, l’étudiant apprendra à manipuler de diverses manières une collection de fichiers (texte), afin d’en extraire différentes informations et de les visualiser. | Lire depuis un fichier texte. Écrire dans un fichier texte. Utilisation des fichiers de type csv.| <a target="_blank" href="python2/220217.pdf" class="pdf-button"><span>pdf</span></a> | <a href="https://github.com/karimsayadi/karimsayadi.github.io/blob/master/teaching/python2/" class="jup-button"><span>jupyter</span></a> | <a href="python2/data/preprocessedP.txt" class="data-button"><span>jupyter</span></a> |
 
 
