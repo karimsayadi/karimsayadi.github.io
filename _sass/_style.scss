@@ -45,6 +45,31 @@ hr {
     display: none;
 }
 
+.jup-button
+{
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    background : url("../icons/jupyter.png")
+}
+
+.jup-button span 
+{
+    display: none;
+}
+
+.data-button
+{
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background : url("../icons/data.png")
+}
+
+.data-button span 
+{
+    display: none;
+}
 
 /*
  * Navbar

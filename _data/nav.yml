@@ -1,11 +1,11 @@
 - name: "Contact"
-  link: "contact"
+  link: "/contact"
 
 - name: "CV"
-  link: "resume.pdf"
+  link: "/resume.pdf"
 
 - name: "Enseignement"
-  link: "enseignement"
+  link: "/enseignement"
   
 - name: "A propos"
   link: "/"

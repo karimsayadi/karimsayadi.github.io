@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="sherlock.jpg">
 
-Bienvenue sur mon site personnel. Je suis attaché temporaire d'enseignement et de recherche à l'École Pratique des Hautes Études ([EPHE](https://www.ephe.fr/)), Paris. Je suis rattaché au laboratoire [CHArt](http://www.cognition-usages.org/chart2/) (Congnitions humaines et artificielles), EA EPHE et Paris 8 
+Bienvenue sur mon site personnel. Je suis attaché temporaire d'enseignement et de recherche à l'École Pratique des Hautes Études ([EPHE](https://www.ephe.fr/)), Paris et membre du laboratoire [CHArt](http://www.cognition-usages.org/chart2/) (Congnitions humaines et artificielles), EA EPHE et Paris 8 
 
 ## Publications
 
