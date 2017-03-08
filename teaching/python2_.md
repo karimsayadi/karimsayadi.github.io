@@ -31,7 +31,7 @@ Pour le suivi du cours je vous invite à installer *Jupyter notebook* en suivant
 | --- |:---:| :---:|:---:|:---:|
 | Dans cette partie du cours, l’étudiant apprendra à manipuler de diverses manières une collection de fichiers (texte), afin d’en extraire différentes informations et de les visualiser. | Lire depuis un fichier texte. Écrire dans un fichier texte. Utilisation des fichiers de type csv.| <a target="_blank" href="python2/td_pdf/220217.pdf" class="pdf-button"><span>pdf</span></a> | <a href="https://github.com/karimsayadi/karimsayadi.github.io/blob/master/teaching/python2/notebooks" class="jup-button"><span>jupyter</span></a> | <a href="python2/data/preprocessedP.txt" class="data-button"><span>jupyter</span></a><a href="python2/data/lines.zip" class="data-button"><span>jupyter</span></a> |
 
-1. Récupération des données depuis le web. 
+2. Récupération des données depuis le web. 
 
 | Résumé | Activités | TD  PDF | TD python notebook | données |
 | --- |:---:| :---:|:---:|:---:|
