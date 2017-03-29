@@ -37,4 +37,10 @@ Pour le suivi du cours je vous invite à installer *Jupyter notebook* en suivant
 | --- |:---:| :---:|:---:|:---:|
 | Dans cette partie du cours, l’étudiant apprendra à récupérer les données depuis le web avec une requête http, construire un analyseur syntaxique, et stocker les données. | Construire un aspirateur de données. Écrire une fonction pour analyser la syntaxe XML. Utilisation des fichiers de type json. Connexion à une base de données de type MongoDB. | <a target="_blank" href="python2/td_pdf/080317.pdf" class="pdf-button"><span>pdf</span></a> |  <a href="https://github.com/karimsayadi/karimsayadi.github.io/blob/master/teaching/python2/notebooks" class="jup-button"><span>jupyter</span></a>|  |
 
+* Traitement des données textuelles. 
+
+| Résumé | Activités | TD  PDF | TD python notebook | données |
+| --- |:---:| :---:|:---:|:---:|
+| Dans cette partie du cours, l'étudiant apprendra à maîtriser des opérations basiques de nettoyage des données textuelles et leur visialisation | <a target="_blank" href="python2/td_pdf/080317.pdf" class="pdf-button"><span>pdf</span></a> |  <a href="https://github.com/karimsayadi/karimsayadi.github.io/blob/master/teaching/python2/notebooks" class="jup-button"><span>jupyter</span></a>| <a href="python2/data/frenchStops.txt" class="data-button"><span>jupyter</span></a> |
+
 
