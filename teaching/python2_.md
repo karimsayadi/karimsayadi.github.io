@@ -41,6 +41,6 @@ Pour le suivi du cours je vous invite à installer *Jupyter notebook* en suivant
 
 | Résumé | Activités | TD  PDF | TD python notebook | données |
 | --- |:---:| :---:|:---:|:---:|
-| Dans cette partie du cours, l'étudiant apprendra à maîtriser des opérations basiques de nettoyage des données textuelles et leur visialisation | |<a target="_blank" href="python2/td_pdf/080317.pdf" class="pdf-button"><span>pdf</span></a> |  <a href="https://github.com/karimsayadi/karimsayadi.github.io/blob/master/teaching/python2/notebooks" class="jup-button"><span>jupyter</span></a>| <a href="python2/data/frenchStops.txt" class="data-button"><span>jupyter</span></a><a href="python2/data/articles.json" class="data-button"><span>jupyter</span></a>|
+| Dans cette partie du cours, l'étudiant apprendra à maîtriser des opérations basiques de nettoyage des données textuelles et leur visialisation | |<a target="_blank" href="python2/td_pdf/080317.pdf" class="pdf-button"><span>pdf</span></a> |  <a href="https://github.com/karimsayadi/karimsayadi.github.io/blob/master/teaching/python2/notebooks" class="jup-button"><span>jupyter</span></a>| <a href="python2/data/frenchStops.txt" class="data-button"><span>jupyter</span></a>|
 
 
